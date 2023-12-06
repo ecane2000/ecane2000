@@ -3,7 +3,3 @@
 - I am currently learning NLP
 - I am looking to collaborate on ...
 - How to reach me ...
-- sm 
-- some more
-and more
-some more to add
